@@ -27,6 +27,8 @@ $ make packages
 $ make coin
 ```
 
+__Pour la compilation j'utilise la flag `-O3`. Attention l'efficacité de ce flag dépend grandement de votre pc. Je vous conseille de faire des tests avec et sans ou avec `-O1` ou `-O2`.__
+
 ## Run :
 
 ### Benchmark 
